@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/beat-store-demo/static/css/main.8a1e78e4.css",
-    "main.js": "/beat-store-demo/static/js/main.46855164.js",
+    "main.js": "/beat-store-demo/static/js/main.7124f183.js",
     "static/js/787.ae41446a.chunk.js": "/beat-store-demo/static/js/787.ae41446a.chunk.js",
     "index.html": "/beat-store-demo/index.html",
     "main.8a1e78e4.css.map": "/beat-store-demo/static/css/main.8a1e78e4.css.map",
-    "main.46855164.js.map": "/beat-store-demo/static/js/main.46855164.js.map",
+    "main.7124f183.js.map": "/beat-store-demo/static/js/main.7124f183.js.map",
     "787.ae41446a.chunk.js.map": "/beat-store-demo/static/js/787.ae41446a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8a1e78e4.css",
-    "static/js/main.46855164.js"
+    "static/js/main.7124f183.js"
   ]
 }
